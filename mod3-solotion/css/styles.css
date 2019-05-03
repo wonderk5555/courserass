@@ -1,0 +1,38 @@
+#header-nav {
+    background-color:#CEC8C8;
+    margin-bottom: 20px;
+}
+
+div h2 {
+    text-align: center;
+}
+.food-tile {
+  position: relative;
+  border: 0.5px solid #3F0C1F;
+  overflow: hidden;
+  margin: 0 auto 15px;
+  background-color: #948888;
+
+
+}
+
+.food-title {
+  position: absolute;
+  top: 0;
+  left: 38%;
+
+  text-align: center;
+  font-size: 1.2em;
+  color: #000;
+  font-weight: bold;
+
+}
+
+.food-tile p {
+
+    margin: 25px 5px 5px 12px;
+}
+
+#navbarNav .nav-link {
+    text-align: center;
+}
